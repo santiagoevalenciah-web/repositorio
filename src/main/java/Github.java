@@ -3,7 +3,7 @@ public class Github {
 
         String nombre = "Thiago";
         String carrera = "Ingeniería de Sistemas";
-        int semestre = 10;
+        int semestre = 8;
 
         mostrarInformacion(nombre, carrera, semestre);
     }
